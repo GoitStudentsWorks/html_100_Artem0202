@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-carpe-diem/",
+    "build": "vite build --base=/html_100_Artem0202/",
     "preview": "vite preview"
   },
   "devDependencies": {
